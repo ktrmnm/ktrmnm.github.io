@@ -1,0 +1,47 @@
+extends layout
+
+block content
+	.jumbotron
+		h2 Kentaro Minami
+		| Dept. of Mathematical Informatics </br>
+		| Graduate School of Information Science and Technology </br>
+		| The University of Tokyo, Japan </br>
+		| email: kentaro_minami at mist.i.u-tokyo.ac.jp
+
+	.container.main-content
+		.row
+			.col-md-10.content-area
+				.page-header
+					h1 Education
+				:md
+					* Master's student at Graduate School of Information Science and Technology, The University of Tokyo (April 2014 - current)
+					  * supervisor: [Hiroshi Nakagawa](http://www.r.dl.itc.u-tokyo.ac.jp/node/43/)
+					* B.S. in Engineering, The University of Tokyo, Japan, March 2014.
+					  * supervisor: [Fumiyasu Komaki](http://www.simplex.t.u-tokyo.ac.jp/~komaki/index.html)
+
+				.page-header
+					h1 Research Interests
+				:md
+					* Statistical learning theory / decision theory
+					  * Weak learner aggregation
+					  * PAC-Bayesian learning
+					  * Shrinkage estimation
+					* Privacy-preserving data mining/learning
+					  * Differential privacy
+					* Gaussian processes / Infinite-dimensional statistical models
+					  * Bayesian optimization
+					  * Malliavin caluculus methods
+					* Information geometry
+					  * Prior selection in parametric statistical models
+			
+				.page-header
+					h1 Publications
+				include:md publications.md
+
+				.page-header
+					h1 Links
+				:md
+					* [Nakagawa Laboratry](http://www.r.dl.itc.u-tokyo.ac.jp/)
+
+
+
