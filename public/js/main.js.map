@@ -1,1 +1,0 @@
-{"version":3,"file":"main.js","sourceRoot":"","sources":["/Users/kminami/Documents/ktrmnm.github.io/assets/js/main.coffee"],"names":[],"mappings":"AAAA;AAAA,EAAA,OAAO,CAAC,GAAR,CAAY,cAAZ,CAAA,CAAA;AAAA","sourcesContent":["console.log 'hello there!'"]}
