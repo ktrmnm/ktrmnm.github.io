@@ -7,6 +7,5 @@
 * J. Komiyama, T. Ma, I. Sato, K. Minami, and H. Nakagawa. Asynchronous Bayesian Optimization. IBIS 2014, Aichi, Japan, November 2014 (poster presentation in Japanese)
 * K. Minami, J. Komiyama, I. Sato, and H. Nakagawa. Bayesian optimization by Thompson sampling. IBIS 2014, Aichi, Japan, November 2014 (poster presentation in Japanese)
 
-### Technical Reports
+#### Technical Reports
 * K. Minami, H. Arai, I. Sato, and H. Nakagawa. Differential privacy and pseudo-Bayesian posterior. IEICE IBISML, 2015-7, June 2015 (in Japanese).
-* hoge
