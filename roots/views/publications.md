@@ -9,3 +9,4 @@
 
 ### Technical Reports
 * K. Minami, H. Arai, I. Sato, and H. Nakagawa. Differential privacy and pseudo-Bayesian posterior. IEICE IBISML, 2015-7, June 2015 (in Japanese).
+* hoge
