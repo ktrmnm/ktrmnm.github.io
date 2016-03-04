@@ -2,7 +2,7 @@
 * K. Minami, H. Arai, I. Sato, and H. Nakagawa. Aggregating differentially private weak learners. IPSJ Transactions on Mathematical Modeling and its Applications (TOM), vol.8 No.2, 2015.
 
 #### International Conferences (refereed)
-* K. Minami, H. Arai, I. Sato. $(\varepsilon, \delta)$-differential privacy of Gibbs posteriors. Learning and privacy with incomplete data and weak supervision (In NIPS2015), Montreal, Canada, December 2015. <strong>(Best Paper Award)</strong>
+* K. Minami, H. Arai, I. Sato. $(\varepsilon, \delta)$-differential privacy of Gibbs posteriors. Learning and privacy with incomplete data and weak supervision (In NIPS2015), Montreal, Canada, December 2015. (Best Paper Award in the workshop)
 
 #### Domestic Conferences (not refereed)
 * K. Minami, H. Arai, I. Sato, and H. Nakagawa. $(\varepsilon, \delta)$-differential privacy of Gibbs posteriors. IBIS 2015, Ibaraki, Japan, November 2015. <strong>(Student Award for Excellent Presentation)</strong>
