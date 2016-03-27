@@ -13,3 +13,7 @@
 
 #### Technical Reports
 * K. Minami, H. Arai, I. Sato, and H. Nakagawa. Differential privacy and pseudo-Bayesian posterior. IEICE IBISML, 2015-7, June 2015 (in Japanese).
+
+#### Activities
+* NEC Knowledge Discovery Research Laboratories
+  * Internship (2015/5 - 2015/8)
